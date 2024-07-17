@@ -1,6 +1,6 @@
 # 💫 Hey Its Danial :
 
-🔭 I’m currently working In Dadekavan (Tetromize) Team <br><br>
+🧑‍💻Freelance Developer <br><br>
 
 ## 🌐 Socials:
 
