@@ -1,4 +1,4 @@
-#💫 Hey, It’s Danial!
+💫 Hey, It’s Danial!
 🧑‍💻 Freelance Developer
 
 Welcome to my GitHub! I’m a passionate developer with expertise across a broad spectrum of technologies. I thrive on turning ideas into functional, innovative, and impactful solutions.
